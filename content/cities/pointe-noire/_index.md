@@ -1,6 +1,6 @@
 ---
 title: Pointe-Noire
 url: /pointe-noire/
-latitude: -4.7485355
-longitude: 11.8523109
+latitude: -4.795
+longitude: 11.854
 ---

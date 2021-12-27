@@ -1,6 +1,6 @@
 ---
 title: Brazzaville
 url: /brazzaville/
-latitude: -4.2691293
-longitude: 15.316174700000001
+latitude: -4.271
+longitude: 15.289
 ---
