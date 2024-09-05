@@ -1,5 +1,5 @@
 ---
 title: "TELIKA"
 url: /brazzaville/telika/
-shop: beauté
+shop: Kosmetik
 ---
